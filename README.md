@@ -1,5 +1,7 @@
-# Getting Started with Create React App
+# Список пользователей, поиск, избранное
+Getting Started with Create React App
 
+Список пользователей, поиск,
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
